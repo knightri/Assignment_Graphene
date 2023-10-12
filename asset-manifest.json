@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assignment_Graphene/static/css/main.a6e723b0.css",
+    "main.js": "/Assignment_Graphene/static/js/main.d31d2ff9.js",
+    "static/media/person.png": "/Assignment_Graphene/static/media/person.ac376bf347c13eac39db.png",
+    "static/media/Star2.png": "/Assignment_Graphene/static/media/Star2.3c40e0f0700b22c765b2.png",
+    "index.html": "/Assignment_Graphene/index.html",
+    "main.a6e723b0.css.map": "/Assignment_Graphene/static/css/main.a6e723b0.css.map",
+    "main.d31d2ff9.js.map": "/Assignment_Graphene/static/js/main.d31d2ff9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6e723b0.css",
+    "static/js/main.d31d2ff9.js"
+  ]
+}
